@@ -7,7 +7,8 @@ ccontemporary topics, improve research and communication skills, and utilize Git
 collaborative project development and material organization.
 
 ## Due Date
-Presentations are due by the start of class (12:35 AM) on Tuesday, October 14.
+- Please update the main README.md file with group member information as soon as possible.
+- Presentations are due before the start of class (12:35 AM) on Tuesday, October 14.
 
 ---
 

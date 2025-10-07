@@ -1,4 +1,4 @@
-# CEP146-Project1
+# CEP146-Project 1
 
 # Group Members Information
 |GitHub User ID        | Name                   | Email                          | Student Number|

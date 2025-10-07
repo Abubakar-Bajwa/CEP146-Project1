@@ -1,6 +1,6 @@
 # CEP146-Project1
 
 
-|Github USerId | Name | email | Student Number|
+|Github UserId | Name | email | Student Number|
 |--------------|------|-------|---------------|
 |Abubakar-Bajwa|Muhammad Bajwa| mabajwa1@myseneca.ca|122423254|

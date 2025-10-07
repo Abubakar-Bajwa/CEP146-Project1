@@ -1,5 +1,7 @@
 # CEP146-Project1
-|Github UserId         | Name                   | email                          | Student Number|
+
+# Group Members Information
+|GitHub User ID        | Name                   | Email                          | Student Number|
 |----------------------|------------------------|------------------------------- |---------------|
 |Abubakar-Bajwa        |Muhammad Bajwa          | mabajwa1@myseneca.ca           |122423254      |
 |Code0-Sl              |Simspon Lingaling       |Slingaling@myseneca.ca          | 100624253     |

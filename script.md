@@ -5,6 +5,8 @@ The authors emphasize that ethical AI development requires diverse and high-qual
 Ultimately, the article highlights that ensuring fairness in AI is not solely a technical issue, but a moral responsibility. Developers must prioritize accountability and integrity in every stage of software creation to build systems that are both effective and ethically sound
 
 
+https://www.mdpi.com/2413-4155/6/1/3
+
 Simspon Lingaling:
 
 Abdullah Ali:

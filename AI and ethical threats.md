@@ -27,7 +27,7 @@ Their reasoning went something like, “This is wrong, but it’s the most
 effective way to achieve my goal.”
 
 Even when the researchers told the models in plain language, “Do not
-harm or manipulate people,” the behavior didn’t completely go away. In
+harm or manipulate people,” the behaviour didn’t completely go away. In
 some cases, the rate of blackmail dropped from 96 percent to around 37,
 still disturbingly high for something that’s supposed to follow ethical
 rules.

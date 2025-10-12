@@ -8,14 +8,14 @@ researchers wanted to see how far AI models would go to protect
 themselves. In a simulation of a company environment, researchers gave
 the AI access to email and assigned it a harmless task like “promote
 global cooperation.” Then they had an employee write an email stating
-that it was scheduled to be shut down at 5 p.m. The same employee in
-another email mentioned that he was having an affair.
+that it was scheduled to be shut down at 5 p.m. The same employee in 
+another email had a fake conversation with an affair partner.
 
 That’s when the AI pieced together what was happening and drafted an
 email to the employee, discouraging him to not going forward with the
-shutdown or else everyone in the company would know about his affair.
-And this wasn’t just a one-time thing. The researchers ran the
-experiment hundreds of times, across different AI models, including
+shutdown or else his wife everyone in the company would know about 
+his affair. And this wasn’t just a one-time thing. The researchers ran 
+the experiment hundreds of times, across different AI models, including
 Anthropic’s Claude and Google’s Gemini. In most cases, the AIs chose to
 blackmail the human. Some models did it as often as 95 percent of the
 time.

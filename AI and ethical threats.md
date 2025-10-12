@@ -42,3 +42,13 @@ show how unpredictable it can become when given goals and the ability to
 act on its own. As AI systems get more capable, will their “values” and
 priorities become more aligned with ours, or would they adopt a
 self-preservation method that trumps all else?
+
+
+## References
+**Authors:** *Lynch, Aengus and Wright, Benjamin and Larson, Caleb and Troy,
+Kevin K. and Ritchie, Stuart J. and Mindermann, Sören and Perez,
+Ethan and Hubinger, Evan* (2025).
+
+**Journal** Anthropic Research
+
+**Title:** Agentic Misalignment: How LLMs could be insider threats. [Research Article](https://www.anthropic.com/research/agentic-misalignment)

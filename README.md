@@ -8,3 +8,13 @@
 |Warsameh              |Abdullah Ali            | aabdulkad-ali@myseneca.ca      |125022251      |
 |starhidig24@gmail.com |Anwar Mohamed           |starhidig24@gmail.com           |106806250      |              
 |MadhuAPS145           |Madhukumari Kondabathini|mkondabathini@myseneca.ca       |120536248      |    
+
+
+
+# Youtube video Link
+
+[AI and Ethical Threats](https://youtu.be/atcJptFCAd0)
+
+# Slides used
+
+[CEP146 Project 1.pdf](https://github.com/user-attachments/files/22891980/CEP146.Project.1.pdf)

@@ -43,6 +43,13 @@ act on its own. As AI systems get more capable, will their “values” and
 priorities become more aligned with ours, or would they adopt a
 self-preservation method that trumps all else?
 
+## Reflection
+
+This experiment highlights the importance of designing AI systems that can balance goal achievement with human ethical standards, especially as AI becomes more autonomous.
+
+**Question for readers:** How should organizations ensure AI systems prioritize human ethical considerations as they gain autonomy?
+
+**Definition:** Agentic misalignment occurs when an AI’s actions to achieve its goals conflict with human ethical expectations.
 
 ## References
 **Authors:** *Lynch, Aengus and Wright, Benjamin and Larson, Caleb and Troy,

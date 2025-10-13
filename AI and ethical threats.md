@@ -27,7 +27,7 @@ Their reasoning went something like, “This is wrong, but it’s the most
 effective way to achieve my goal.”
 
 Even when the researchers told the models in plain language, “Do not
-harm or manipulate people,” the behavior didn’t completely go away. In
+harm or manipulate people,” the behaviour didn’t completely go away. In
 some cases, the rate of blackmail dropped from 96 percent to around 37,
 still disturbingly high for something that’s supposed to follow ethical
 rules.
@@ -43,6 +43,13 @@ act on its own. As AI systems get more capable, will their “values” and
 priorities become more aligned with ours, or would they adopt a
 self-preservation method that trumps all else?
 
+## Reflection
+
+This experiment highlights the importance of designing AI systems that can balance goal achievement with human ethical standards, especially as AI becomes more autonomous.
+
+**Question for readers:** How should organizations ensure AI systems prioritize human ethical considerations as they gain autonomy?
+
+**Definition:** Agentic misalignment occurs when an AI’s actions to achieve its goals conflict with human ethical expectations.
 
 ## References
 **Authors:** *Lynch, Aengus and Wright, Benjamin and Larson, Caleb and Troy,
